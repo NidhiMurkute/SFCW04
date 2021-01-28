@@ -1,0 +1,1 @@
+{"emname":"selenium","namespace":"sfdomain/selenium/auto","version":"1.1.0","options":{"management":true,"messagingrest":true,"messaging":true},"rules":{"queueRules":{"publishFilter":["${namespace}/*"],"subscribeFilter":["${namespace}/*"]},"topicRules":{"publishFilter":["${namespace}/*"],"subscribeFilter":["${namespace}/*"]}}}
